@@ -4,3 +4,4 @@
 
 Assignment1：Linear Regression
 
+Assignment2：Logistic Regression
