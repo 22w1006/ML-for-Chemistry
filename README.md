@@ -5,3 +5,5 @@
 Assignment1：Linear Regression
 
 Assignment2：Logistic Regression
+
+Assignment3.1：CNN Model for classification tasks
